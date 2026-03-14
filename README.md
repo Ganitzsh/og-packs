@@ -65,7 +65,9 @@ Or browse all packs at [openpeon.com/packs](https://openpeon.com/packs).
 
 ## Creating your own pack
 
-See [openpeon.com/create](https://openpeon.com/create) for the full guide.
+**This repo is closed to new pack submissions.** The OG collection is curated by the core team and is not accepting additions.
+
+To create and distribute your own pack, host it in your own repo and submit it to the [PeonPing/registry](https://github.com/PeonPing/registry). Community packs work identically to OG packs — see [openpeon.com/create](https://openpeon.com/create) for the full guide.
 
 ## License
 
